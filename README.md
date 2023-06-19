@@ -8,6 +8,7 @@ OpenCV For Unity
 
 그외에 ILL2CPP 등 일부 라이브러리 손상
 
+가급적 pakage 파일을 받아 사용하는걸 추천드립니다
 ***
 
 ARFoundation을 및 OpenCV를 이용하여 문서를 스캔 & 필기 하고 이를 Firebase 에 전송.
