@@ -15,4 +15,4 @@ ARFoundation을 및 OpenCV를 이용하여 문서를 스캔 & 필기 하고 이�
 전송 경로가 담긴 QR 코드를 읽어 필기 텍스쳐를 가져오고 문서를 타겟팅하여 AR Traking 을 통해 필기를 고정시킨다.
 
 테스트 영상
-https://youtube.com/shorts/i5Eu3kg770o?feature=share
+https://youtube.com/watch?/i5Eu3kg770o?feature=share
